@@ -1,6 +1,6 @@
 ### Project Overview
 
-##Olympics Data Analysis
+Olympics Data Analysis
 
 #### Dataset used from :  [(https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table)] - Olympic Games Medal Data
 
@@ -36,7 +36,7 @@ The snapshot of the data,
 | Bronze_Total | Total no. of bronze medals won in both Summer and Winter Olympics |
 | Total | Total no. of all the medals won in both Summer and Winter Olympics |
 
-####Tasks:
+Tasks:
 
 1. Which Event was better in terms of medal counts : Summer or Winter ?
 2. Visualizing the top 10 countries in Winter Olympics, Summer Olympics and in both. Which are the common of all three?
@@ -60,15 +60,14 @@ The snapshot of the data,
 
 - Medal Counts for top 10 performing countries in all Olympic events
 
-!!![container width="100%" align="center"]
 ![Medal Count for top 10 countries](https://github.com/harshshah3/python-data-science-hands-on/blob/master/graph.JPG)
-!!![container-end]
+
 
 
 - Best Country's Overall Performance in Olympic (Based on total number of medals won)
-!!![container width="100%" align="center"]
+
 ![Olympic Performance of Best Country](https://github.com/harshshah3/python-data-science-hands-on/blob/master/graph2.JPG)
-!!![container-end]
+
 
 
  
