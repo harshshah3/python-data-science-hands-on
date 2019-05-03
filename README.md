@@ -11,11 +11,11 @@ Throughout this hands-on project,  I have put efforts to have insights on some i
 ### About the Dataset :
 
 The snapshot of the data,
-!!![container width="100%" align="center"]
-![Olympic Game Data](https://github.com/harshshah3/python-data-science-hands-on/blob/master/Screenshot%20(16).png)
-!!![container-end]
 
-####The dataset has details of 146 countries with following 16 features
+![Olympic Game Data](https://github.com/harshshah3/python-data-science-hands-on/blob/master/Screenshot%20(16).png)
+
+
+The dataset has details of 146 countries with following 16 features
 
 | Features | Description |
 | --- | --- |
@@ -67,9 +67,3 @@ Tasks:
 - Best Country's Overall Performance in Olympic (Based on total number of medals won)
 
 ![Olympic Performance of Best Country](https://github.com/harshshah3/python-data-science-hands-on/blob/master/graph2.JPG)
-
-
-
- 
-
-
