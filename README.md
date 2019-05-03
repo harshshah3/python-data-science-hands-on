@@ -61,13 +61,13 @@ The snapshot of the data,
 - Medal Counts for top 10 performing countries in all Olympic events
 
 !!![container width="100%" align="center"]
-![Medal Count for top 10 countries](undefined/account/b16/6a1f0c95-2915-474c-917f-dc711cc8d89b/b597/a079f760-af4b-402d-bbec-a00012097277/file.JPG)
+![Medal Count for top 10 countries](https://github.com/harshshah3/python-data-science-hands-on/blob/master/graph.JPG)
 !!![container-end]
 
 
 - Best Country's Overall Performance in Olympic (Based on total number of medals won)
 !!![container width="100%" align="center"]
-![Olympic Performance of Best Country](undefined/account/b16/6a1f0c95-2915-474c-917f-dc711cc8d89b/b91/72c0d530-24e3-4517-9755-a139457f5f49/file.JPG)
+![Olympic Performance of Best Country](https://github.com/harshshah3/python-data-science-hands-on/blob/master/graph2.JPG)
 !!![container-end]
 
 
