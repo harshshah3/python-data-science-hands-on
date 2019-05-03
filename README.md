@@ -12,7 +12,7 @@ Throughout this hands-on project,  I have put efforts to have insights on some i
 
 The snapshot of the data,
 !!![container width="100%" align="center"]
-![Olympic Game Data](undefined/account/b16/6a1f0c95-2915-474c-917f-dc711cc8d89b/b-619/b5b3ddd7-87b9-4b0a-a5d9-70108f33c715/file.png)
+![Olympic Game Data](https://github.com/harshshah3/python-data-science-hands-on/blob/master/Screenshot%20(16).png)
 !!![container-end]
 
 ####The dataset has details of 146 countries with following 16 features
